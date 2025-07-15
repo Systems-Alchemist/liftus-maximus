@@ -7,7 +7,7 @@
   "theme_color": "#cc0407",
   "icons": [
     {
-      "src": "LiftusMaximus.png",
+      "src": "icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
