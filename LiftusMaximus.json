@@ -1,7 +1,7 @@
 {
   "name": "Liftus Maximus",
   "short_name": "Liftus Maximus",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#cc0407",
